@@ -2,7 +2,7 @@
 
 这里是个人做的一些数据分析项目｡:.ﾟヽ(｡◕‿◕｡)ﾉﾟ.:｡+ﾟ
 
-*Github打开ipynb显示效果不佳，可复制文件链接在 https://nbviewer.jupyter.org/上查看*。
+Github打开ipynb显示效果不佳，可复制文件链接在 [nbviewer](https://nbviewer.jupyter.org/)上查看
 
 ### 一、BOSS直聘招聘信息爬虫及分析
 
